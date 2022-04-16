@@ -1,0 +1,47 @@
+{
+  "name": "#1494",
+  "description": "",
+  "external_url": "",
+  "image": "1494.webp",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BG"
+    },
+    {
+      "trait_type": "Diva",
+      "value": "Alien Diva"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "None"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Green Half Shaved"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Hepburn Shades"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "1494.webp",
+        "type": "image/webp"
+      }
+    ],
+    "creators": []
+  },
+  "compiler": "https://nft-generator.art"
+}

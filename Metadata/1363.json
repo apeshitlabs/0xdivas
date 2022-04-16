@@ -1,0 +1,47 @@
+{
+  "name": "#1363",
+  "description": "",
+  "external_url": "",
+  "image": "1363.webp",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BG"
+    },
+    {
+      "trait_type": "Diva",
+      "value": "Alien Diva"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Black Choker"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Wild White Hair"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "None"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "1363.webp",
+        "type": "image/webp"
+      }
+    ],
+    "creators": []
+  },
+  "compiler": "https://nft-generator.art"
+}

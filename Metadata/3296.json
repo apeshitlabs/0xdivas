@@ -1,0 +1,47 @@
+{
+  "name": "#3296",
+  "description": "",
+  "external_url": "",
+  "image": "3296.webp",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BG"
+    },
+    {
+      "trait_type": "Diva",
+      "value": "Diva 3"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "None"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Pink Half Shaved"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "VR"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "3296.webp",
+        "type": "image/webp"
+      }
+    ],
+    "creators": []
+  },
+  "compiler": "https://nft-generator.art"
+}

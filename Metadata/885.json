@@ -1,0 +1,47 @@
+{
+  "name": "#885",
+  "description": "",
+  "external_url": "",
+  "image": "885.webp",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BG"
+    },
+    {
+      "trait_type": "Diva",
+      "value": "Zombie Diva"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Ruby"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Blonde Straight"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "VR"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "885.webp",
+        "type": "image/webp"
+      }
+    ],
+    "creators": []
+  },
+  "compiler": "https://nft-generator.art"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "#52",
+  "description": "",
+  "external_url": "",
+  "image": "52.webp",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BG"
+    },
+    {
+      "trait_type": "Diva",
+      "value": "Diva 2"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "None"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Green Straight"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "None"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "52.webp",
+        "type": "image/webp"
+      }
+    ],
+    "creators": []
+  },
+  "compiler": "https://nft-generator.art"
+}

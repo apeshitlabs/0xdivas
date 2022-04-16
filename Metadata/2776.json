@@ -1,0 +1,47 @@
+{
+  "name": "#2776",
+  "description": "",
+  "external_url": "",
+  "image": "2776.webp",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BG"
+    },
+    {
+      "trait_type": "Diva",
+      "value": "Diva 1"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "None"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Wild White Hair"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Shades"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "2776.webp",
+        "type": "image/webp"
+      }
+    ],
+    "creators": []
+  },
+  "compiler": "https://nft-generator.art"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "#2866",
+  "description": "",
+  "external_url": "",
+  "image": "2866.webp",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BG"
+    },
+    {
+      "trait_type": "Diva",
+      "value": "Diva 4"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "None"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Green Half Shaved"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "3D Glasses"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "2866.webp",
+        "type": "image/webp"
+      }
+    ],
+    "creators": []
+  },
+  "compiler": "https://nft-generator.art"
+}

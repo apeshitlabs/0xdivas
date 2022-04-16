@@ -1,0 +1,47 @@
+{
+  "name": "#1164",
+  "description": "",
+  "external_url": "",
+  "image": "1164.webp",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BG"
+    },
+    {
+      "trait_type": "Diva",
+      "value": "Zombie Diva"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Red Half Shaved"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "3D Glasses"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "1164.webp",
+        "type": "image/webp"
+      }
+    ],
+    "creators": []
+  },
+  "compiler": "https://nft-generator.art"
+}

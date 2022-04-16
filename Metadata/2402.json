@@ -1,0 +1,47 @@
+{
+  "name": "#2402",
+  "description": "",
+  "external_url": "",
+  "image": "2402.webp",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BG"
+    },
+    {
+      "trait_type": "Diva",
+      "value": "Diva 2"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Ruby"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Purple Half Shaved"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "None"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "2402.webp",
+        "type": "image/webp"
+      }
+    ],
+    "creators": []
+  },
+  "compiler": "https://nft-generator.art"
+}

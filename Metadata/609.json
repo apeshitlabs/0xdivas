@@ -1,0 +1,47 @@
+{
+  "name": "#609",
+  "description": "",
+  "external_url": "",
+  "image": "609.webp",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BG"
+    },
+    {
+      "trait_type": "Diva",
+      "value": "Diva 2"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "None"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Orange Side"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "3D Glasses"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "609.webp",
+        "type": "image/webp"
+      }
+    ],
+    "creators": []
+  },
+  "compiler": "https://nft-generator.art"
+}

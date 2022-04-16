@@ -1,0 +1,47 @@
+{
+  "name": "#1621",
+  "description": "",
+  "external_url": "",
+  "image": "1621.webp",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BG"
+    },
+    {
+      "trait_type": "Diva",
+      "value": "Diva 3"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Half Shaved"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Hepburn Shades"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "1621.webp",
+        "type": "image/webp"
+      }
+    ],
+    "creators": []
+  },
+  "compiler": "https://nft-generator.art"
+}

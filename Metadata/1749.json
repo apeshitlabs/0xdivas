@@ -1,0 +1,47 @@
+{
+  "name": "#1749",
+  "description": "",
+  "external_url": "",
+  "image": "1749.webp",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BG"
+    },
+    {
+      "trait_type": "Diva",
+      "value": "Diva 4"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Purple Straight"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Hepburn Shades"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "1749.webp",
+        "type": "image/webp"
+      }
+    ],
+    "creators": []
+  },
+  "compiler": "https://nft-generator.art"
+}
